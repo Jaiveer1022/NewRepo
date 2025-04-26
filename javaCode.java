@@ -3,7 +3,7 @@ public class javaCode {
 public static void main(String[] args) {
 
 System.out.println("Hello, World!");
-System.out.println("Fuck this branch 1 asdfhasjidhfguikashdfiuka");
+System.out.println("This is the real branch 1");
 }
 
 }
